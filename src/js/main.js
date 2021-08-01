@@ -1,8 +1,8 @@
 //호버 상태에 따른 이미지 맵핑 검색
 const starCnt = {
-    empty:'starJS/src/image/empty.png',
-    half:'starJS/src/image/half.png',
-    full:'starJS/src/image/full.png',
+    empty:'src/image/empty.png',
+    half:'src/image/half.png',
+    full:'src/image/full.png',
 }
 const allEl = document.querySelector(".main-content")
 const starsEl = document.querySelector(".star");
