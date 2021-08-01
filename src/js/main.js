@@ -44,7 +44,7 @@ allEl.addEventListener('mousemove', (e) =>{
     // console.log(starPos);
     const isStarPos = starPos.width / 2 <  offsetX;
     // console.log(starNum);
-    // console.log(isStarPos);
+    // console.log(isStarPos); 
     drawStar({starNum,isStarPos});
 });
 

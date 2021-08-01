@@ -28,6 +28,10 @@ img{
     width: 100px;
     height: 100px;
 }
+
+.star img:hover{
+    cursor: pointer;
+}
 .removeBtn{
     margin-left: 20px;
     width: 45px;
